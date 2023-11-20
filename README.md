@@ -1,6 +1,6 @@
 # IAdocumentacao
-Importar bibliotecas
-python
+Importar bibliotecas<br />
+python<br />
 Copy code
 import pandas as pd
 from sklearn.model_selection import train_test_split
