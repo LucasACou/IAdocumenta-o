@@ -1,6 +1,5 @@
 # IAdocumentacao
 Importar bibliotecas
-
 python
 Copy code
 import pandas as pd
