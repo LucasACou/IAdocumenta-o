@@ -58,4 +58,3 @@ print(f'Acurácia do modelo: {accuracy:.2f}')
 print(classification_report(y_test, predictions))
 Calcula a acurácia do modelo usando accuracy_score.
 Exibe um relatório detalhado de métricas de desempenho usando classification_report.
-documentação
